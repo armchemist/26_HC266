@@ -206,11 +206,13 @@ flowchart LR
 
 ## 4. 시연
 
+### 발표 자료
+
+[ARMChemist 발표 자료 (Canva)](https://canva.link/0p77va368apy4tb)
+
 ### 작품 소개 영상
 
 [![프로젝트 소개영상](https://img.youtube.com/vi/Cck1FFFvAGc/maxresdefault.jpg)](https://www.youtube.com/watch?v=Cck1FFFvAGc)
-
-### 로봇
 
 ### 웹 UI
 
